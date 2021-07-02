@@ -1,6 +1,7 @@
 const { createStore } = require("redux");
-const reducer = require("./reducer");
-const { logIn, logOut, addPost } = require("./action");
+const reducer = require("./reducers");
+const { addPost } = require("./actions/post");
+const { logIn, logOut } = require("./actions/user");
 
 const initialState = {
   user: null,
