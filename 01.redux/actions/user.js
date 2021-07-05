@@ -1,10 +1,17 @@
-const addPost = (data) => {
+const logIn = (data) => {
   return {
-    type: "ADD_POST",
+    type: "LOG_IN",
     data,
   };
 };
 
-module.export = {
-  addPost,
+const logOut = () => {
+  return {
+    type: "LOG_OUT",
+  };
+};
+
+module.exports = {
+  logIn,
+  logOut,
 };
