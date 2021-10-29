@@ -124,3 +124,9 @@ const reducer = (prevState, action) => {
 ```
 
 위 액션들도 중복되는 부분은 ...스프레드를 사용하여 prevState 매개변수로 뿌려줬다.
+
+---
+
+## Mobx
+
+> 참고자료 <br> https://medium.com/@jsh901220/mobx-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-a768f4aaa73e <br> https://ko.mobx.js.org/README.html
