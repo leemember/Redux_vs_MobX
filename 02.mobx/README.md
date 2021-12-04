@@ -1,6 +1,6 @@
 # 🍿 MOBX (상태관리)
 
-> `📍 MOBX 특징` <br />immer가 기본적으로 적용되어있다. <br />리덕스와 다르게 추가되는 부분은 observable이다. <br /> https://mobx.js.org/README.html
+> `📍 MOBX 특징` <br />immer가 기본적으로 적용되어있다. <br />리덕스와 다르게 추가되는 부분은 observable이다. <br /> https://ko.mobx.js.org/README.html
 
  <br />
 
